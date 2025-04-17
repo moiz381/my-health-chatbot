@@ -5,7 +5,6 @@
 **HealthBot** is an intelligent chatbot designed to answer general health-related questions using semantic search and sentence embeddings. It provides quick, informative, and conversational responses to questions about symptoms, medications, diseases, and more.
 
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
-![License](https://img.shields.io/https://github.com/moiz381/my-health-chatbot)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 
 ---
@@ -22,11 +21,6 @@
 
 ---
 
-## 📸 Screenshot
-
-![screenshot](https://user-images.githubusercontent.com/yourusername/healthbot-preview.png)
-
----
 
 ## 🧠 How It Works
 
